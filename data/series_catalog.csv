@@ -1,0 +1,4 @@
+series_id,series_name,category,area_type,units,source
+,Electricity CPI (Urban),energy_services,urban,index,BLS
+,Utility Gas CPI (Urban),energy_services,urban,index,BLS
+LNS14000000,Unemployment Rate (U-3),unemployment,national,percent,BLS
