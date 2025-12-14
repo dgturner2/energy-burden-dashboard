@@ -1,0 +1,316 @@
+date,series_id,series_name,category,area_type,value,units,source
+2022-01-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,281.148,index,BLS
+2022-02-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,283.716,index,BLS
+2022-03-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,287.504,index,BLS
+2022-04-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,289.109,index,BLS
+2022-05-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,292.296,index,BLS
+2022-06-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,296.311,index,BLS
+2022-07-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,296.276,index,BLS
+2022-08-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,296.171,index,BLS
+2022-09-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,296.808,index,BLS
+2022-10-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,298.012,index,BLS
+2022-11-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,297.711,index,BLS
+2022-12-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,296.797,index,BLS
+2023-01-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,299.17,index,BLS
+2023-02-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,300.84,index,BLS
+2023-03-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,301.836,index,BLS
+2023-04-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,303.363,index,BLS
+2023-05-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,304.127,index,BLS
+2023-06-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,305.109,index,BLS
+2023-07-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,305.691,index,BLS
+2023-08-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,307.026,index,BLS
+2023-09-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,307.789,index,BLS
+2023-10-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,307.671,index,BLS
+2023-11-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,307.051,index,BLS
+2023-12-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,306.746,index,BLS
+2024-01-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,308.417,index,BLS
+2024-02-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,310.326,index,BLS
+2024-03-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,312.332,index,BLS
+2024-04-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,313.548,index,BLS
+2024-05-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,314.069,index,BLS
+2024-06-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,314.175,index,BLS
+2024-07-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,314.54,index,BLS
+2024-08-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,314.796,index,BLS
+2024-09-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,315.301,index,BLS
+2024-10-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,315.664,index,BLS
+2024-11-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,315.493,index,BLS
+2024-12-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,315.605,index,BLS
+2025-01-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,317.671,index,BLS
+2025-02-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,319.082,index,BLS
+2025-03-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,319.799,index,BLS
+2025-04-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,320.795,index,BLS
+2025-05-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,321.465,index,BLS
+2025-06-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,322.561,index,BLS
+2025-07-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,323.048,index,BLS
+2025-08-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,323.976,index,BLS
+2025-09-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,324.8,index,BLS
+2022-01-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,260.653,index,BLS
+2022-02-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,267.771,index,BLS
+2022-03-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,298.246,index,BLS
+2022-04-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,298.469,index,BLS
+2022-05-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,316.761,index,BLS
+2022-06-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,340.917,index,BLS
+2022-07-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,325.407,index,BLS
+2022-08-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,305.372,index,BLS
+2022-09-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,297.343,index,BLS
+2022-10-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,300.359,index,BLS
+2022-11-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,292.953,index,BLS
+2022-12-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,274.937,index,BLS
+2023-01-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,283.33,index,BLS
+2023-02-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,281.673,index,BLS
+2023-03-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,279.084,index,BLS
+2023-04-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,283.352,index,BLS
+2023-05-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,279.816,index,BLS
+2023-06-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,283.854,index,BLS
+2023-07-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,284.828,index,BLS
+2023-08-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,294.328,index,BLS
+2023-09-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,296.004,index,BLS
+2023-10-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,286.754,index,BLS
+2023-11-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,277.029,index,BLS
+2023-12-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,269.375,index,BLS
+2024-01-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,270.42,index,BLS
+2024-02-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,276.331,index,BLS
+2024-03-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,285.002,index,BLS
+2024-04-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,290.76,index,BLS
+2024-05-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,290.139,index,BLS
+2024-06-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,286.675,index,BLS
+2024-07-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,287.868,index,BLS
+2024-08-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,282.614,index,BLS
+2024-09-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,275.74,index,BLS
+2024-10-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,272.807,index,BLS
+2024-11-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,268.213,index,BLS
+2024-12-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,267.963,index,BLS
+2025-01-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,273.045,index,BLS
+2025-02-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,275.867,index,BLS
+2025-03-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,275.734,index,BLS
+2025-04-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,279.888,index,BLS
+2025-05-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,280.097,index,BLS
+2025-06-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,284.307,index,BLS
+2025-07-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,283.395,index,BLS
+2025-08-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,283.247,index,BLS
+2025-09-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,283.589,index,BLS
+2022-01-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,342.604,index,BLS
+2022-02-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,344.607,index,BLS
+2022-03-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,346.618,index,BLS
+2022-04-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,348.389,index,BLS
+2022-05-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,350.58,index,BLS
+2022-06-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,352.967,index,BLS
+2022-07-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,354.935,index,BLS
+2022-08-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,357.264,index,BLS
+2022-09-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,359.704,index,BLS
+2022-10-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,362.093,index,BLS
+2022-11-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,364.195,index,BLS
+2022-12-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,366.868,index,BLS
+2023-01-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,369.585,index,BLS
+2023-02-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,372.51,index,BLS
+2023-03-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,374.971,index,BLS
+2023-04-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,376.636,index,BLS
+2023-05-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,378.776,index,BLS
+2023-06-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,380.594,index,BLS
+2023-07-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,382.226,index,BLS
+2023-08-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,383.221,index,BLS
+2023-09-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,385.433,index,BLS
+2023-10-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,386.435,index,BLS
+2023-11-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,387.892,index,BLS
+2023-12-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,389.433,index,BLS
+2024-01-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,391.896,index,BLS
+2024-02-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,393.906,index,BLS
+2024-03-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,396.174,index,BLS
+2024-04-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,397.539,index,BLS
+2024-05-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,399.274,index,BLS
+2024-06-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,400.234,index,BLS
+2024-07-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,401.545,index,BLS
+2024-08-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,403.257,index,BLS
+2024-09-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,404.133,index,BLS
+2024-10-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,405.287,index,BLS
+2024-11-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,406.25,index,BLS
+2024-12-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,407.242,index,BLS
+2025-01-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,409.153,index,BLS
+2025-02-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,410.635,index,BLS
+2025-03-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,411.99,index,BLS
+2025-04-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,413.389,index,BLS
+2025-05-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,414.689,index,BLS
+2025-06-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,415.455,index,BLS
+2025-07-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,416.271,index,BLS
+2025-08-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,417.902,index,BLS
+2025-09-01,CUUR0000SAH1,CPI Shelter (CPI-U U.S. city avg NSA),household_costs,urban,418.598,index,BLS
+2022-01-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,357.737,index,BLS
+2022-02-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,359.627,index,BLS
+2022-03-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,361.083,index,BLS
+2022-04-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,362.951,index,BLS
+2022-05-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,365.116,index,BLS
+2022-06-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,367.927,index,BLS
+2022-07-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,370.448,index,BLS
+2022-08-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,373.283,index,BLS
+2022-09-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,376.569,index,BLS
+2022-10-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,379.436,index,BLS
+2022-11-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,382.562,index,BLS
+2022-12-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,385.649,index,BLS
+2023-01-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,388.372,index,BLS
+2023-02-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,391.141,index,BLS
+2023-03-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,392.91,index,BLS
+2023-04-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,394.898,index,BLS
+2023-05-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,396.726,index,BLS
+2023-06-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,398.593,index,BLS
+2023-07-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,400.21,index,BLS
+2023-08-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,402.247,index,BLS
+2023-09-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,404.487,index,BLS
+2023-10-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,406.683,index,BLS
+2023-11-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,408.838,index,BLS
+2023-12-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,410.606,index,BLS
+2024-01-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,412.019,index,BLS
+2024-02-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,413.695,index,BLS
+2024-03-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,415.219,index,BLS
+2024-04-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,416.386,index,BLS
+2024-05-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,417.772,index,BLS
+2024-06-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,418.82,index,BLS
+2024-07-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,420.577,index,BLS
+2024-08-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,422.223,index,BLS
+2024-09-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,423.821,index,BLS
+2024-10-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,425.381,index,BLS
+2024-11-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,426.651,index,BLS
+2024-12-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,428.151,index,BLS
+2025-01-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,429.506,index,BLS
+2025-02-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,430.603,index,BLS
+2025-03-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,431.798,index,BLS
+2025-04-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,432.956,index,BLS
+2025-05-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,433.698,index,BLS
+2025-06-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,434.594,index,BLS
+2025-07-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,435.489,index,BLS
+2025-08-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,436.981,index,BLS
+2025-09-01,CUUR0000SEHA,CPI Rent of Primary Residence (CPI-U U.S. city avg NSA),household_costs,urban,438.212,index,BLS
+2022-01-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,238.183,index,BLS
+2022-02-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,236.453,index,BLS
+2022-03-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,240.558,index,BLS
+2022-04-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,242.778,index,BLS
+2022-05-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,247.461,index,BLS
+2022-06-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,257.557,index,BLS
+2022-07-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,262.347,index,BLS
+2022-08-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,265.191,index,BLS
+2022-09-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,265.487,index,BLS
+2022-10-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,262.1,index,BLS
+2022-11-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,258.864,index,BLS
+2022-12-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,260.548,index,BLS
+2023-01-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,266.528,index,BLS
+2023-02-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,266.887,index,BLS
+2023-03-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,265.033,index,BLS
+2023-04-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,263.216,index,BLS
+2023-05-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,262.135,index,BLS
+2023-06-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,271.369,index,BLS
+2023-07-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,270.268,index,BLS
+2023-08-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,270.752,index,BLS
+2023-09-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,272.401,index,BLS
+2023-10-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,268.342,index,BLS
+2023-11-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,267.545,index,BLS
+2023-12-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,269.17,index,BLS
+2024-01-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,276.698,index,BLS
+2024-02-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,276.384,index,BLS
+2024-03-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,278.233,index,BLS
+2024-04-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,276.653,index,BLS
+2024-05-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,277.584,index,BLS
+2024-06-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,283.25,index,BLS
+2024-07-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,283.415,index,BLS
+2024-08-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,281.333,index,BLS
+2024-09-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,282.522,index,BLS
+2024-10-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,280.47,index,BLS
+2024-11-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,275.801,index,BLS
+2024-12-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,276.7,index,BLS
+2025-01-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,281.888,index,BLS
+2025-02-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,283.194,index,BLS
+2025-03-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,285.983,index,BLS
+2025-04-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,286.652,index,BLS
+2025-05-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,290.055,index,BLS
+2025-06-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,299.728,index,BLS
+2025-07-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,299.107,index,BLS
+2025-08-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,298.738,index,BLS
+2025-09-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,296.887,index,BLS
+2022-01-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,225.181,index,BLS
+2022-02-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,226.491,index,BLS
+2022-03-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,225.679,index,BLS
+2022-04-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,230.916,index,BLS
+2022-05-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,248.854,index,BLS
+2022-06-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,269.278,index,BLS
+2022-07-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,258.666,index,BLS
+2022-08-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,268.866,index,BLS
+2022-09-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,275.894,index,BLS
+2022-10-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,264.774,index,BLS
+2022-11-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,258.872,index,BLS
+2022-12-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,267.683,index,BLS
+2023-01-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,285.407,index,BLS
+2023-02-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,258.976,index,BLS
+2023-03-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,238.182,index,BLS
+2023-04-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,226.062,index,BLS
+2023-05-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,221.484,index,BLS
+2023-06-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,219.272,index,BLS
+2023-07-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,223.29,index,BLS
+2023-08-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,224.539,index,BLS
+2023-09-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,221.045,index,BLS
+2023-10-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,222.955,index,BLS
+2023-11-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,231.976,index,BLS
+2023-12-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,230.862,index,BLS
+2024-01-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,234.515,index,BLS
+2024-02-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,236.218,index,BLS
+2024-03-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,230.601,index,BLS
+2024-04-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,221.729,index,BLS
+2024-05-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,222.024,index,BLS
+2024-06-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,227.478,index,BLS
+2024-07-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,226.593,index,BLS
+2024-08-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,224.259,index,BLS
+2024-09-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,225.366,index,BLS
+2024-10-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,227.463,index,BLS
+2024-11-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,236.179,index,BLS
+2024-12-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,242.224,index,BLS
+2025-01-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,246.117,index,BLS
+2025-02-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,250.38,index,BLS
+2025-03-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,252.218,index,BLS
+2025-04-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,256.501,index,BLS
+2025-05-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,255.981,index,BLS
+2025-06-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,259.734,index,BLS
+2025-07-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,257.867,index,BLS
+2025-08-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,255.253,index,BLS
+2025-09-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,251.728,index,BLS
+2022-01-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.0,percent,BLS
+2022-02-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.8,percent,BLS
+2022-03-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.7,percent,BLS
+2022-04-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.7,percent,BLS
+2022-05-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.6,percent,BLS
+2022-06-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.6,percent,BLS
+2022-07-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.5,percent,BLS
+2022-08-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.6,percent,BLS
+2022-09-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.5,percent,BLS
+2022-10-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.6,percent,BLS
+2022-11-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.6,percent,BLS
+2022-12-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.5,percent,BLS
+2023-01-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.5,percent,BLS
+2023-02-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.6,percent,BLS
+2023-03-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.5,percent,BLS
+2023-04-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.4,percent,BLS
+2023-05-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.6,percent,BLS
+2023-06-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.6,percent,BLS
+2023-07-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.5,percent,BLS
+2023-08-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.7,percent,BLS
+2023-09-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.8,percent,BLS
+2023-10-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.9,percent,BLS
+2023-11-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.7,percent,BLS
+2023-12-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.8,percent,BLS
+2024-01-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.7,percent,BLS
+2024-02-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.9,percent,BLS
+2024-03-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.9,percent,BLS
+2024-04-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.9,percent,BLS
+2024-05-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.0,percent,BLS
+2024-06-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.1,percent,BLS
+2024-07-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.2,percent,BLS
+2024-08-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.2,percent,BLS
+2024-09-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.1,percent,BLS
+2024-10-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.1,percent,BLS
+2024-11-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.2,percent,BLS
+2024-12-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.1,percent,BLS
+2025-01-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.0,percent,BLS
+2025-02-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.1,percent,BLS
+2025-03-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.2,percent,BLS
+2025-04-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.2,percent,BLS
+2025-05-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.2,percent,BLS
+2025-06-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.1,percent,BLS
+2025-07-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.2,percent,BLS
+2025-08-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.3,percent,BLS
+2025-09-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.4,percent,BLS
