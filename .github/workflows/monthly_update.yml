@@ -1,16 +1,21 @@
-name: Monthly BLS Data Update
+name: Monthly BLS Update
 
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "0 12 1 * *"  # runs at 12:00 UTC on the 1st of every month
+    - cron: "15 13 1 * *"  # runs at 13:15 UTC on the 1st of every month
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: write
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Check out repo
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -23,7 +28,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run dataset builder
+      - name: Run build script
         env:
           BLS_API_KEY: ${{ secrets.BLS_API_KEY }}
         run: |
@@ -31,8 +36,8 @@ jobs:
 
       - name: Commit and push updated data
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/bls_monthly.csv
-          git commit -m "Automated monthly data update" || echo "No changes to commit"
+          git commit -m "Monthly data update" || echo "No changes to commit"
           git push
