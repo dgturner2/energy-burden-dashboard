@@ -5,7 +5,7 @@ build_dataset.py
 
 import pandas as pd
 
-from src.fetch_bls import load_series_ids, fetch_bls
+from .fetch_bls import load_series_ids, fetch_bls
 
 
 def period_to_date(year: str, period: str) -> pd.Timestamp:
