@@ -5,14 +5,14 @@ build_dataset.py
 
 import pandas as pd
 
-from fetch_bls import load_series_ids, fetch_bls
+from src.fetch_bls import load_series_ids, fetch_bls
 
 
 def period_to_date(year: str, period: str) -> pd.Timestamp:
     """
     Convert BLS year + period (like M01) into a real date.
     We use the first day of each month (YYYY-MM-01).
-    
+
     """
     if not period.startswith("M"):
         return pd.NaT
