@@ -4,3 +4,4 @@ CUUR0000SEHF02,"CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA)",energ
 CUUR0000SA0,"CPI All Items (CPI-U U.S. city avg NSA)",inflation_context,urban,index,BLS
 CUUR0000SA0E,"CPI Energy (CPI-U U.S. city avg NSA)",inflation_context,urban,index,BLS
 LNS14000000,"Unemployment Rate (U-3)",unemployment,national,percent,BLS
+CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,thousands,BLS

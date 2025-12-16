@@ -1,4 +1,49 @@
 date,series_id,series_name,category,area_type,value,units,source
+2022-01-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,150006.0,thousands,BLS
+2022-02-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,150875.0,thousands,BLS
+2022-03-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,151346.0,thousands,BLS
+2022-04-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,151651.0,thousands,BLS
+2022-05-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,151892.0,thousands,BLS
+2022-06-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,152353.0,thousands,BLS
+2022-07-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,153049.0,thousands,BLS
+2022-08-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,153286.0,thousands,BLS
+2022-09-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,153513.0,thousands,BLS
+2022-10-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,153913.0,thousands,BLS
+2022-11-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,154210.0,thousands,BLS
+2022-12-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,154336.0,thousands,BLS
+2023-01-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,154780.0,thousands,BLS
+2023-02-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,155086.0,thousands,BLS
+2023-03-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,155171.0,thousands,BLS
+2023-04-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,155387.0,thousands,BLS
+2023-05-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,155614.0,thousands,BLS
+2023-06-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,155871.0,thousands,BLS
+2023-07-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,156019.0,thousands,BLS
+2023-08-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,156176.0,thousands,BLS
+2023-09-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,156334.0,thousands,BLS
+2023-10-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,156520.0,thousands,BLS
+2023-11-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,156661.0,thousands,BLS
+2023-12-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,156930.0,thousands,BLS
+2024-01-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,157049.0,thousands,BLS
+2024-02-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,157271.0,thousands,BLS
+2024-03-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,157517.0,thousands,BLS
+2024-04-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,157635.0,thousands,BLS
+2024-05-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,157828.0,thousands,BLS
+2024-06-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,157915.0,thousands,BLS
+2024-07-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,158003.0,thousands,BLS
+2024-08-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,158074.0,thousands,BLS
+2024-09-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,158314.0,thousands,BLS
+2024-10-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,158358.0,thousands,BLS
+2024-11-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,158619.0,thousands,BLS
+2024-12-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,158942.0,thousands,BLS
+2025-01-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,159053.0,thousands,BLS
+2025-02-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,159155.0,thousands,BLS
+2025-03-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,159275.0,thousands,BLS
+2025-04-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,159433.0,thousands,BLS
+2025-05-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,159452.0,thousands,BLS
+2025-06-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,159439.0,thousands,BLS
+2025-07-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,159511.0,thousands,BLS
+2025-08-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,159507.0,thousands,BLS
+2025-09-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,159626.0,thousands,BLS
 2022-01-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,281.148,index,BLS
 2022-02-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,283.716,index,BLS
 2022-03-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,287.504,index,BLS
