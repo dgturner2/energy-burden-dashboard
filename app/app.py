@@ -8,7 +8,6 @@ from plotly.subplots import make_subplots
 
 
 # Page settings
-
 st.set_page_config(
     page_title="Energy Burden Trends in the United States",
     layout="wide"
@@ -19,31 +18,26 @@ st.title("Energy Burden Trends in the United States")
 
 
 # Load data
-
 @st.cache_data
 def load_data(path="data/bls_monthly.csv"):
     df = pd.read_csv(path)
     df["date"] = pd.to_datetime(df["date"])
     return df
 
-
 df = load_data()
 
 
 # Remove household cost series
-
 df = df[~df["category"].isin(["household_costs"])].copy()
 
 
 
 # Calculations
-
 def add_mom_yoy(group):
     group = group.sort_values("date").copy()
     group["mom_pct"] = group["value"].pct_change() * 100
     group["yoy_pct"] = group["value"].pct_change(12) * 100
     return group
-
 
 df = df.groupby("series_name", group_keys=False).apply(add_mom_yoy)
 
@@ -53,14 +47,15 @@ latest = df.sort_values("date").groupby("series_name").tail(1)
 
 
 # Layout: LEFT = controls + indicators, RIGHT = charts
-
 left_col, right_col = st.columns([1, 3])
 
 
+# --------------------------------------------
 # LEFT COLUMN — DATE SLIDER + INDICATORS
-
+# --------------------------------------------
 with left_col:
 
+    # --------- Date Slider ---------
     st.subheader("Date Range")
 
     min_date = df["date"].min()
@@ -75,6 +70,7 @@ with left_col:
 
     st.divider()
 
+    # --------- Most Recent Indicators ---------
     st.subheader("Most Recent Indicators")
 
     for row in latest.itertuples(index=False):
@@ -83,19 +79,22 @@ with left_col:
         yoy = row.yoy_pct
         units = row.units
 
+        # Special labeling improvement for employment
+        label = row.series_name
+        if "Nonfarm" in row.series_name or "nonfarm" in row.series_name:
+            label = f"Total Non-Farm Employment ({units})"
+
         st.metric(
-            label=f"{row.series_name} ({units})",
+            label=label,
             value=f"{value:.2f}",
             delta=None if pd.isna(mom) else f"{mom:.2f}% MoM",
         )
 
-        st.caption(
-            "YoY: N/A" if pd.isna(yoy) else f"YoY: {yoy:.2f}%"
-        )
+        st.caption("YoY: N/A" if pd.isna(yoy) else f"YoY: {yoy:.2f}%")
 
 
-# Date filter
 
+# Apply date filter
 df = df[(df["date"] >= start_date) & (df["date"] <= end_date)]
 
 energy_df = df[df["category"] == "energy_services"]
@@ -103,13 +102,14 @@ infl_unemp_df = df[df["category"].isin(["inflation_context", "unemployment"])]
 
 
 
+# --------------------------------------------
 # RIGHT COLUMN — STACKED CHARTS
-
+# --------------------------------------------
 with right_col:
 
-    # -----------------------------
+   
     # Chart 1: Energy Services
-    # -----------------------------
+    
     st.subheader("Energy Services Trends")
 
     fig_energy = go.Figure()
@@ -133,8 +133,10 @@ with right_col:
 
     st.plotly_chart(fig_energy, use_container_width=True)
 
-  
-    # Chart 2: Inflation + Unemployment
+
+
+   
+    # Chart 2: Inflation  & Unemployment
    
     st.subheader("Inflation & Unemployment Trends")
 
@@ -171,6 +173,8 @@ with right_col:
     st.plotly_chart(fig_combo, use_container_width=True)
 
 
+
+# Explanation
 st.divider()
 
 st.write(
@@ -178,17 +182,16 @@ st.write(
     **Understanding this dashboard:**
 
     - The **Energy Services chart** shows trends in electricity and natural gas prices.
-    - The **Inflation and Unemployment chart** compares overall price levels with labor market conditions.
-    - All series share a common timeline, making it easier to visually compare movements over time.
+    - The **Inflation & Unemployment chart** shows how overall CPI and unemployment move over time.
+    - The format allows you to visually compare changes in energy costs alongside broader economic conditions.
 
-    This dashboard provides a foundation for analyzing how changes in energy costs
-    may relate to broader inflationary pressures and employment conditions in the U.S.
+    The added **Total Non-Farm Employment** indicator helps provide context on labor market strength,
+    supporting future study on how employment levels may relate to energy burden.
     """
 )
 
 
 # Footer
-
 st.caption(
     "Source: U.S. Bureau of Labor Statistics (BLS). "
     "Data updated automatically via GitHub Actions."
