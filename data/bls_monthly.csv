@@ -32,8 +32,9 @@ date,series_id,series_name,category,area_type,value,units,source
 2025-07-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,159511.0,thousands,BLS
 2025-08-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,159485.0,thousands,BLS
 2025-09-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,159593.0,thousands,BLS
-2025-10-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,159488.0,thousands,BLS
-2025-11-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,159552.0,thousands,BLS
+2025-10-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,159420.0,thousands,BLS
+2025-11-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,159476.0,thousands,BLS
+2025-12-01,CES0000000001,"Total Nonfarm Employment (All Employees, SA)",employment,national,159526.0,thousands,BLS
 2023-01-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,299.17,index,BLS
 2023-02-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,300.84,index,BLS
 2023-03-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,301.836,index,BLS
@@ -68,6 +69,7 @@ date,series_id,series_name,category,area_type,value,units,source
 2025-08-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,323.976,index,BLS
 2025-09-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,324.8,index,BLS
 2025-11-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,324.122,index,BLS
+2025-12-01,CUUR0000SA0,CPI All Items (CPI-U U.S. city avg NSA),inflation_context,urban,324.054,index,BLS
 2023-01-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,283.33,index,BLS
 2023-02-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,281.673,index,BLS
 2023-03-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,279.084,index,BLS
@@ -102,6 +104,7 @@ date,series_id,series_name,category,area_type,value,units,source
 2025-08-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,283.247,index,BLS
 2025-09-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,283.589,index,BLS
 2025-11-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,279.588,index,BLS
+2025-12-01,CUUR0000SA0E,CPI Energy (CPI-U U.S. city avg NSA),inflation_context,urban,274.131,index,BLS
 2023-01-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,266.528,index,BLS
 2023-02-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,266.887,index,BLS
 2023-03-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,265.033,index,BLS
@@ -136,6 +139,7 @@ date,series_id,series_name,category,area_type,value,units,source
 2025-08-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,298.738,index,BLS
 2025-09-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,296.887,index,BLS
 2025-11-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,294.939,index,BLS
+2025-12-01,CUUR0000SEHF01,CPI Electricity (CPI-U U.S. city avg NSA),energy_services,urban,295.121,index,BLS
 2023-01-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,285.407,index,BLS
 2023-02-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,258.976,index,BLS
 2023-03-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,238.182,index,BLS
@@ -170,6 +174,7 @@ date,series_id,series_name,category,area_type,value,units,source
 2025-08-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,255.253,index,BLS
 2025-09-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,251.728,index,BLS
 2025-11-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,257.731,index,BLS
+2025-12-01,CUUR0000SEHF02,CPI Utility (Piped) Gas Service (CPI-U U.S. city avg NSA),energy_services,urban,268.415,index,BLS
 2023-01-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.5,percent,BLS
 2023-02-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.6,percent,BLS
 2023-03-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.5,percent,BLS
@@ -178,7 +183,7 @@ date,series_id,series_name,category,area_type,value,units,source
 2023-06-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.6,percent,BLS
 2023-07-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.5,percent,BLS
 2023-08-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.7,percent,BLS
-2023-09-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.8,percent,BLS
+2023-09-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.7,percent,BLS
 2023-10-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.9,percent,BLS
 2023-11-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.7,percent,BLS
 2023-12-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.8,percent,BLS
@@ -186,7 +191,7 @@ date,series_id,series_name,category,area_type,value,units,source
 2024-02-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.9,percent,BLS
 2024-03-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.9,percent,BLS
 2024-04-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.9,percent,BLS
-2024-05-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.0,percent,BLS
+2024-05-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,3.9,percent,BLS
 2024-06-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.1,percent,BLS
 2024-07-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.2,percent,BLS
 2024-08-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.2,percent,BLS
@@ -195,12 +200,13 @@ date,series_id,series_name,category,area_type,value,units,source
 2024-11-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.2,percent,BLS
 2024-12-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.1,percent,BLS
 2025-01-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.0,percent,BLS
-2025-02-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.1,percent,BLS
+2025-02-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.2,percent,BLS
 2025-03-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.2,percent,BLS
 2025-04-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.2,percent,BLS
-2025-05-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.2,percent,BLS
+2025-05-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.3,percent,BLS
 2025-06-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.1,percent,BLS
-2025-07-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.2,percent,BLS
+2025-07-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.3,percent,BLS
 2025-08-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.3,percent,BLS
 2025-09-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.4,percent,BLS
-2025-11-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.6,percent,BLS
+2025-11-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.5,percent,BLS
+2025-12-01,LNS14000000,Unemployment Rate (U-3),unemployment,national,4.4,percent,BLS
